@@ -9,7 +9,7 @@
 
 
 Some texts
-Code: WorldPopulation.ipynb
+Code: [WorldPopulation.ipynb]
 Technology: Python, Pandas,Seaborn, Matplotlib.
 
 
