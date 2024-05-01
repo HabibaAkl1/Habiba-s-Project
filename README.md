@@ -32,7 +32,7 @@ Weekly Trends for Sales & Profit>> Present weekly sales and profit data for the 
 
 [GO TO Tableau](https://public.tableau.com/app/profile/habiba.akl/viz/SalesDashboard_17141692655530/SalesDashboard?publish=yes&fbclid=IwZXh0bgNhZW0CMTAAAR3ttLk5yvT5L3YU5NVqmN0Wfe61UoTLXjYJO8_1L7dpu22q2c3VXHp3RU0_aem_AfhenYl5BhuyXZHo8MZH8-cVy2MXvV-XD1svR2RY2QXFI5vMokKdb9K7PouS91nR3cEJfQXKXlyZo6SWzrm-80dA)).
 
-  This site was built using [GitHub Pages](https://pages.github.com/)
+
 
 <a name="usage"></a>
 ## 2. Certifcates
