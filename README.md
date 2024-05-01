@@ -7,14 +7,11 @@
 <a name="desc"></a>
 ## 1. Projects
 
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 Some texts
-Code: file_name.ipynb
-Description: Some texts
-Skills: some texts
-Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
-Results: Review of the global and regional video games markets, data-based business recommendations.
+Code: WorldPopulation.ipynb
+Technology: Python, Pandas,Seaborn, Matplotlib.
+
 
 <a name="usage"></a>
 ## 2. Usage tips
