@@ -35,4 +35,4 @@ Weekly Trends for Sales & Profit>> Present weekly sales and profit data for the 
 
 <a name="usage"></a>
 ## 2. Certifcates
-     [..](https://drive.google.com/file/d/1e6r95cjDfMYxtJmgPrSe6CK6-RXrjX5D/view)
+    This site was built using [GitHub Pages](https://pages.github.com/)
