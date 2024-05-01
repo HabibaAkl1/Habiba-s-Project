@@ -36,3 +36,4 @@ Weekly Trends for Sales & Profit>> Present weekly sales and profit data for the 
 <a name="usage"></a>
 ## 2. Certifcates
  [Data Cleaning with Pandas](https://drive.google.com/file/d/1e6r95cjDfMYxtJmgPrSe6CK6-RXrjX5D/view)
+ [Google Analystics Certificate](https://drive.google.com/file/d/1wFU3I4iG7E9TgBabyTgJiNUbT4clwz-V/view)
