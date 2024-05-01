@@ -36,5 +36,4 @@ Weekly Trends for Sales & Profit>> Present weekly sales and profit data for the 
 <a name="usage"></a>
 ## 2. Certifcates
      
-      [My Certificate](https://drive.google.com/drive/u/1/my-drive)
-     
+      [My Certificate](https://drive.google.com/file/d/1e6r95cjDfMYxtJmgPrSe6CK6-RXrjX5D/view?usp=sharing)
