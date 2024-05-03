@@ -31,11 +31,18 @@ Technology: Python, Pandas,Seaborn, Matplotlib.
 
 
 2- Store Analysis
-[StoreAnalysis](https://github)
+
+[StoreAnalysis](https://github.com/HabibaAkl1/Habiba-s-Project/blob/main/StoreAnalysis%20(2).ipynb)
+
 Technology: Python, Pandas,Seaborn, Matplotlib.
+
 Description:The Superstore dataset provides sales and profit data for a variety of products across different categories and regions.
+
 Goal:Analyze the data and identify insights that can help the company improve its business performance. 
-Questions:Which product categories have the highest profit margins in the Super Store?
+
+Questions"
+
+Which product categories have the highest profit margins in the Super Store?
 Are there any significant differences in sales between the East region and other regions?
 How do sales vary by product category during different months of the year?
 What is the rate of returned products for orders with same-day shipping compared to other shipping options?
