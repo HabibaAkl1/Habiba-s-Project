@@ -23,12 +23,30 @@ Student at Technische hochschule Deggendorf
 
 ### Explatory data analysis 
 
-World Population
+1- World Population
  
  [WorldPopulation.ipynb](https://github.com/HabibaAkl1/Habiba-s-Project/blob/main/WorldPopulation.ipynb)
 
 Technology: Python, Pandas,Seaborn, Matplotlib.
 
+
+2- Store Analysis
+[StoreAnalysis](https://github)
+Technology: Python, Pandas,Seaborn, Matplotlib.
+Description:The Superstore dataset provides sales and profit data for a variety of products across different categories and regions.
+Goal:Analyze the data and identify insights that can help the company improve its business performance. 
+Questions:Which product categories have the highest profit margins in the Super Store?
+Are there any significant differences in sales between the East region and other regions?
+How do sales vary by product category during different months of the year?
+What is the rate of returned products for orders with same-day shipping compared to other shipping options?
+
+Hypothesis
+Hypothesis 1: Technology products have the highest profit margin compared to other product categories.
+Hypothesis 2: The East region has the highest sales compared to other regions.
+Hypothesis 3: Sales are higher during certain months of the year.
+Hypothesis 4: Orders with same-day shipping have the lowest rate of returned products.
+
+Conculsions: After exploring the data and calculating the profit and sales  regarding each category , a visualized results were made to support each hypothesis
 
 ### Visual
 Sales Dashboard
