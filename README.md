@@ -85,3 +85,6 @@ Weekly Trends for Sales & Profit>> Present weekly sales and profit data for the 
 
  
  [Google Analytics Certificate](https://drive.google.com/file/d/1wFU3I4iG7E9TgBabyTgJiNUbT4clwz-V/view)
+
+ [Introduction to Tableau](https://learn.365financialanalyst.com/certificates/CC-E0827C04C7/)
+ 
