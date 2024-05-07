@@ -63,12 +63,12 @@ Hypothesis 4: Orders with same-day shipping have the lowest rate of returned pro
 Conculsions: After exploring the data and calculating the profit and sales  regarding each category , a visualized results were made to support each hypothesis
 
 ### Visual
-Sales Dashboard
+1- Sales Dashboard
 
 Description:
 Display a summary of total sales, profits  for the current year and the previous year.
 
-Sales Trends >> KPIon Monthlyb bais for both years / Identify months with highest and lowest sales and make them easy to recognize.
+Sales Trends >> KPI on Monthly bais for both years / Identify months with highest and lowest sales and make them easy to recognize.
 
 Product Subcategory Comparison>> Compare sales performance by different product subcategories for the current year and the previous year.
 
@@ -77,7 +77,31 @@ Weekly Trends for Sales & Profit>> Present weekly sales and profit data for the 
 
 [GO TO Tableau](https://public.tableau.com/app/profile/habiba.akl/viz/SalesDashboard_17141692655530/SalesDashboard?publish=yes&fbclid=IwZXh0bgNhZW0CMTAAAR3ttLk5yvT5L3YU5NVqmN0Wfe61UoTLXjYJO8_1L7dpu22q2c3VXHp3RU0_aem_AfhenYl5BhuyXZHo8MZH8-cVy2MXvV-XD1svR2RY2QXFI5vMokKdb9K7PouS91nR3cEJfQXKXlyZo6SWzrm-80dA)).
 
+2- Newsfeed Analaysis
 
+Description:
+
+The project was part of  the "Introduction to Tableau" Course.In this Newsfeed Analysis , the project is used in optimizing a website’s newsfeed feature for maximum user engagement.
+main goal is to generate graphs that analyze users’ interaction patterns with the 365 platform’s Newsfeed service.
+
+Objectives  :
+
+Part 1: Creating a Dual Graph: Monthly Post Activity and Average Likes
+
+Part 2: Creating a Bar Chart: Subtype Post Distribution
+
+Part 3: Creating a Bar Chart: Subtype Popularity Measured in Likes
+
+Part 4: Creating a Bar Chart: Subtype Popularity Measured in Comments
+
+Part 5: Creating a Bar Chart: Newsfeed User Engagement
+
+Part 6: Creating the Dashboard
+
+
+Part 7: Formatting the Dashboard & Creating Filters
+
+[Go To Tableau](https://public.tableau.com/app/profile/habiba.akl/viz/newsfeed_analysis_17147789707000/Dashboard1)
 
 <a name="usage"></a>
 ## 2. Certifcates
