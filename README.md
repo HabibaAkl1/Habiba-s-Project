@@ -103,6 +103,11 @@ Part 7: Formatting the Dashboard & Creating Filters
 
 [Go To Tableau](https://public.tableau.com/app/profile/habiba.akl/viz/newsfeed_analysis_17147789707000/Dashboard1)
 
+
+## PowerBi Projects
+
+[Go tO Power BI](https://app.powerbi.com/groups/me/reports/eb2ff31b-3c9d-41c5-93d4-fdb1f77adb00/ReportSection?experience=power-bi)
+
 <a name="usage"></a>
 ## 2. Certifcates
  [Data Cleaning with Pandas](https://drive.google.com/file/d/1e6r95cjDfMYxtJmgPrSe6CK6-RXrjX5D/view)
